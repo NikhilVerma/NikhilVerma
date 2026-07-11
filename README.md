@@ -8,12 +8,12 @@ Before this I spent 8 years at [Bumble](https://bumble.com/) in London, going fr
 
 ## Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [How I am using Vue with Typescript 7 today](https://nikhil-verma.com/blog/vue-without-the-vue-files/) — Jul 10, 2026
+<!-- BLOG-POST-LIST:START -->
+- [How I am using Vue with Typescript 7 today](https://nikhil-verma.com/blog/vue-without-the-vue-files/) — Jul 10, 2026
 - [Building a harness that makes a small LLM reliable](https://nikhil-verma.com/blog/reliable-small-llm-agent-harness/) — May 20, 2026
 - [Rate limiting LLM APIs across distributed workers](https://nikhil-verma.com/blog/rate-limiting-llm-apis-distributed-workers/) — Apr 24, 2026
 - [When your reverse proxy becomes the problem](https://nikhil-verma.com/blog/removing-nginx-from-nuxt-nitro/) — Mar 18, 2026
-- [Why nested JSON will eventually bite you](https://nikhil-verma.com/blog/flatten-nested-json-trees-in-postgres/) — Feb 11, 2026
-<!-- BLOG-POST-LIST:END -->
+- [Why nested JSON will eventually bite you](https://nikhil-verma.com/blog/flatten-nested-json-trees-in-postgres/) — Feb 11, 2026<!-- BLOG-POST-LIST:END -->
 
 More at [nikhil-verma.com](https://nikhil-verma.com/).
 

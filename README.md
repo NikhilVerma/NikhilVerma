@@ -9,7 +9,7 @@ Before this I spent 8 years at [Bumble](https://bumble.com/) in London, going fr
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Passing taste to models](https://nikhil-verma.com/blog/passing-taste-to-models/) — Jul 17, 2026
+- [Passing taste to AI models](https://nikhil-verma.com/blog/passing-taste-to-models/) — Jul 17, 2026
 - [The Constraint Spectrum: how the made earns the trust of the born](https://nikhil-verma.com/blog/constraint-spectrum/) — Jul 15, 2026
 - [How I&#39;d do engineering for the next year](https://nikhil-verma.com/blog/how-id-do-engineering-next-year/) — Jul 14, 2026
 - [How I am using Vue with Typescript 7 today](https://nikhil-verma.com/blog/vue-without-the-vue-files/) — Jul 10, 2026

@@ -1,6 +1,6 @@
 # Hi, I'm Nikhil
 
-I'm a Product Engineer at [CoLoop](https://www.coloop.ai/) in London and Co-Founder of [The Non-Functional Co.](https://nonfx.com/). Most of my time goes into a stubborn problem: making LLM agents reliable and deterministic enough to trust in places where mistakes have real consequences.
+I'm a Product Engineer at [CoLoop](https://www.coloop.ai/) in London. Previously, I was Co-Founder of [The Non-Functional Co.](https://nonfx.com/), and before that an engineering lead at [Bumble](https://bumble.com/). Most of my time goes into a stubborn problem: making LLM agents reliable and deterministic enough to trust in places where mistakes have real consequences.
 
 Before this I spent 8 years at [Bumble](https://bumble.com/) in London, going from engineer to Frontend Core Team Lead across platforms serving 50M+ users — with earlier stops at Opera Software in Sweden and AOL in Bangalore. Nineteen years in, the field still finds new ways to make me feel like a beginner. I write about what I learn along the way.
 
